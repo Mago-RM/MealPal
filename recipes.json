@@ -1,0 +1,263 @@
+[
+    {
+        "name": "Pancakes",
+        "ingredients": [
+            {
+                "name": "Flour",
+                "quantity": 200,
+                "unit": "grams"
+            },
+            {
+                "name": "Milk",
+                "quantity": 1,
+                "unit": "cup"
+            },
+            {
+                "name": "Eggs",
+                "quantity": 2,
+                "unit": "pieces"
+            }
+        ],
+        "instructions": "Mix ingredients and cook on a griddle.",
+        "category": "Breakfast",
+        "servings": 4,
+        "picture": "assets/images/pancakes.jpg"
+    },
+    {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+            {
+                "name": "Spaghetti",
+                "quantity": 250,
+                "unit": "grams"
+            },
+            {
+                "name": "Ground Beef",
+                "quantity": 500,
+                "unit": "grams"
+            },
+            {
+                "name": "Tomato Sauce",
+                "quantity": 1,
+                "unit": "cup"
+            }
+        ],
+        "instructions": "Cook spaghetti and mix with meat sauce.",
+        "category": "Dinner",
+        "servings": 2,
+        "picture": "assets/images/spaguetti.jpg"
+    },
+    {
+        "name": "Vegetable Stir Fry",
+        "ingredients": [
+            {
+                "name": "Broccoli",
+                "quantity": 200,
+                "unit": "grams"
+            },
+            {
+                "name": "Carrots",
+                "quantity": 150,
+                "unit": "grams"
+            },
+            {
+                "name": "Bell Peppers",
+                "quantity": 1,
+                "unit": "piece"
+            },
+            {
+                "name": "Soy Sauce",
+                "quantity": 3,
+                "unit": "tablespoons"
+            },
+            {
+                "name": "Garlic",
+                "quantity": 2,
+                "unit": "cloves"
+            },
+            {
+                "name": "Olive Oil",
+                "quantity": 2,
+                "unit": "tablespoons"
+            }
+        ],
+        "instructions": "Stir-fry vegetables in olive oil and soy sauce.",
+        "category": "Dinner",
+        "servings": 4,
+        "picture": "assets/images/vegetable_stir_fry.jpg"
+    },
+    {
+        "name": "Grilled Chicken",
+        "ingredients": [
+            {
+                "name": "Chicken Breast",
+                "quantity": 2,
+                "unit": "pieces"
+            },
+            {
+                "name": "Olive Oil",
+                "quantity": 2,
+                "unit": "tablespoons"
+            },
+            {
+                "name": "Garlic",
+                "quantity": 2,
+                "unit": "cloves"
+            },
+            {
+                "name": "Paprika",
+                "quantity": 1,
+                "unit": "teaspoon"
+            },
+            {
+                "name": "Salt",
+                "quantity": 0.5,
+                "unit": "teaspoon"
+            },
+            {
+                "name": "Pepper",
+                "quantity": 0.25,
+                "unit": "teaspoon"
+            }
+        ],
+        "instructions": "Marinate chicken and grill until cooked through.",
+        "category": "Dinner",
+        "servings": 2,
+        "picture": "assets/images/grilled_chicken.jpg"
+    },
+    {
+        "name": "Fruit Smoothie",
+        "ingredients": [
+            {
+                "name": "Banana",
+                "quantity": 1,
+                "unit": "piece"
+            },
+            {
+                "name": "Strawberries",
+                "quantity": 100,
+                "unit": "grams"
+            },
+            {
+                "name": "Yogurt",
+                "quantity": 1,
+                "unit": "cup"
+            },
+            {
+                "name": "Honey",
+                "quantity": 1,
+                "unit": "tablespoon"
+            },
+            {
+                "name": "Milk",
+                "quantity": 0.5,
+                "unit": "cup"
+            }
+        ],
+        "instructions": "Blend all ingredients until smooth.",
+        "category": "Beverages",
+        "servings": 2,
+        "picture": "assets/images/fruit_smoothie.jpg"
+    },
+    {
+        "name": "Margarita Pizza",
+        "ingredients": [
+            {
+                "name": "Pizza Dough",
+                "quantity": 1,
+                "unit": "piece"
+            },
+            {
+                "name": "Tomato Sauce",
+                "quantity": 0.5,
+                "unit": "cup"
+            },
+            {
+                "name": "Mozzarella Cheese",
+                "quantity": 200,
+                "unit": "grams"
+            },
+            {
+                "name": "Basil Leaves",
+                "quantity": 5,
+                "unit": "pieces"
+            }
+        ],
+        "instructions": "Spread sauce on dough, add cheese and basil, and bake.",
+        "category": "Dinner",
+        "servings": 2,
+        "picture": "assets/images/margarita_pizza.jpg"
+    },
+    {
+        "name": "Scramble Eggs",
+        "ingredients": [
+            {
+                "name": "oil",
+                "quantity": "1",
+                "unit": "tsp"
+            },
+            {
+                "name": "eggs",
+                "quantity": "2",
+                "unit": "units"
+            }
+        ],
+        "instructions": "Scramble eggs and Add to a pan with oil. Move constantly. Add salt and pepper.",
+        "category": "Breakfast",
+        "servings": "1",
+        "picture": "assets/images/placeholder.jpg"
+    },
+    {
+        "name": "Iced Coffe",
+        "ingredients": [
+            {
+                "name": "Brewed Coffe",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "Ice",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "Milk",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "sugar",
+                "quantity": "1",
+                "unit": "tbsp"
+            }
+        ],
+        "instructions": "Mix coffe with Milk, ice and Sugar",
+        "category": "Beverages",
+        "servings": "1",
+        "picture": "assets/images/placeholder.jpg"
+    },
+    {
+        "name": "Iced Tea",
+        "ingredients": [
+            {
+                "name": "tea",
+                "quantity": "1",
+                "unit": "teabag"
+            },
+            {
+                "name": "ice",
+                "quantity": "1",
+                "unit": "cup"
+            },
+            {
+                "name": "sugar",
+                "quantity": "1",
+                "unit": "tsp"
+            }
+        ],
+        "instructions": "Brew tea following instructions.\nServe Tea and Add Ice\nAdd suggar if needed.",
+        "category": "Beverages",
+        "servings": "1",
+        "picture": "assets/images/placeholder.jpg"
+    }
+]
